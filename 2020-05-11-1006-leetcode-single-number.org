@@ -55,7 +55,7 @@ var singleNumber = function (nums) {
 
 * Related
 * External Links
-- https://leetcode.com/problems/single-number/
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_XOR_assignment
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Bitwise_XOR
-- http://www3.cs.stonybrook.edu/~skiena/373/videos/pdf/L3.pdf
+- [[https://leetcode.com/problems/single-number/][Leetcode: Single-Number]]
+- [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators#Bitwise_XOR_assignment][Assignment operators - JavaScript | MDN]]
+- [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Bitwise_XOR][Bitwise operators - JavaScript | MDN]]
+- [[http://www3.cs.stonybrook.edu/~skiena/373/videos/pdf/L3.pdf][Skiena - Program Analysis]]
